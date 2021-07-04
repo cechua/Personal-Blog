@@ -1,0 +1,22 @@
+[
+    {
+        "menutitle":"All",
+        "referenceurl":"all"
+    },
+    {
+        "menutitle":"React",
+        "referenceurl":"react"
+    },
+    {
+        "menutitle":"C#",
+        "referenceurl":"csharp"
+    },
+    {
+        "menutitle":"MSSQL",
+        "referenceurl":"mssql"
+    },
+    {
+        "menutitle":"HTML",
+        "referenceurl":"html"
+    }
+]

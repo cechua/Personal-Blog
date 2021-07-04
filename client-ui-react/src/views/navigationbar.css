@@ -33,3 +33,24 @@ ul li a:hover{
     color:#fff;
     
 }
+
+.bodypage {
+    margin-top:10px;
+}
+.nopadding {
+    padding:0px !important;
+}
+
+.maincontent {
+    overflow-y: auto;
+    max-height:750px;
+    -ms-overflow-style: none;
+  scrollbar-color: transparent transparent; /*just hides the scrollbar for firefox */
+}
+.maincontent::-webkit-scrollbar {
+    display: none;
+}
+
+.maincontent ::-moz-scrollbar {
+    display: none;
+}

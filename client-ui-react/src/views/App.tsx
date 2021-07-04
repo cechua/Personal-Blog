@@ -13,6 +13,7 @@ function App() {
   return (
     <>
     <Navbar/>
+    <div className="container-fluid bodypage">
     <Switch>
         <Route path="/" exact>
           <HomePage/>
@@ -25,6 +26,7 @@ function App() {
         </Route>
         <Route component={NotFoundPage} />
     </Switch>
+    </div>
     </>
   );
 }
