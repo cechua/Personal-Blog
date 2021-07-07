@@ -10,7 +10,7 @@ export default function NavigationBar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-            <NavBarMenuLink linkto="/codeblocks" text="Code Snippets"/>
+            <NavBarMenuLink linkto="/mainpage" text="Code Snippets"/>
             <NavBarMenuLink linkto="/addnewentry" text="Add"/>
             <NavBarMenuLink linkto="/randomurl" text="Randomurl"/>
             </Nav>

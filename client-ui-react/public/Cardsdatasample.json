@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "title":"Sample Card Title 1",
+        "summary":"Thisisarandomsummarylol",
+        "tags": ["React","CSS","HTML"],
+        "image": "",
+        "url":""
+    },
+    {
+        "id":"2",
+        "title":"Sample Card Title 2",
+        "summary":"Thisisarandomsummarylol",
+        "tags": ["React","C#","Javascript"],
+        "image": "",
+        "url":""
+    }
+]
